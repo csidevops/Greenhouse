@@ -45,12 +45,12 @@
 		method="post">
 		<button type="submit">Sign in with Facebook</button>
 	</form>
-	<form id="twitter_signin" action="<c:url value="/signin/twitter" />"
+	<%-- <form id="twitter_signin" action="<c:url value="/signin/twitter" />"
 		method="post">
 		<button type="submit">Sign in with Twitter</button>
 	</form>
 	<form id="linkedin_signin" action="<c:url value="/signin/linkedin" />"
 		method="post">
 		<button type="submit">Sign in with LinkedIn</button>
-	</form>
+	</form> --%>
 </c:if>
