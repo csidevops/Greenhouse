@@ -155,7 +155,7 @@
 		<dependency>
 			<groupId>org.springframework.social</groupId>
 			<artifactId>spring-social-tripit</artifactId>
-			<version>${org.springframework.social.tripit-version}</version>
+			<version>1.0.0.M3</version>
 		</dependency>
 		-->	
 		<!-- AspectJ -->
