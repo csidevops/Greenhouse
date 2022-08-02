@@ -151,12 +151,13 @@
 			<artifactId>spring-social-linkedin</artifactId>
 			<version>${org.springframework.social.linkedin-version}</version>
 		</dependency>
+		<!-- 02/08/2022 - Commented out by Deepak
 		<dependency>
 			<groupId>org.springframework.social</groupId>
 			<artifactId>spring-social-tripit</artifactId>
 			<version>${org.springframework.social.tripit-version}</version>
 		</dependency>
-
+		-->	
 		<!-- AspectJ -->
 		<dependency>
 			<groupId>org.aspectj</groupId>
